@@ -1,0 +1,18 @@
+.adminHeader {
+    display: flex;
+    margin-left: 20px;    
+    
+}
+
+.adminLogo {
+    margin: 20px;
+}
+
+.adminDetail{
+
+    margin: 20px;
+    justify-content: flex-end;
+}   
+.adminDetail h1{
+    color: #024F9D;
+}
